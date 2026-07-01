@@ -1,0 +1,1682 @@
+# Kodi Media Center language file
+# Addon Name: Horizon
+# Addon id: skin.horizon
+# Addon Provider: jurialmunkey
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /xml/Custom_1134_Custom_Hub.xml
+msgctxt "#31000"
+msgid "No content available..."
+msgstr ""
+
+#: /xml/DialogGameControllers.xml
+msgctxt "#31001"
+msgid "Controllers"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31002"
+msgid "Hub node"
+msgstr ""
+
+#: Weather
+msgctxt "#31003"
+msgid "Current conditions"
+msgstr ""
+
+#: Weather
+msgctxt "#31004"
+msgid "Sunset at"
+msgstr ""
+
+#: Weather
+msgctxt "#31005"
+msgid "Sunrise at"
+msgstr ""
+
+#: /xml/Custom_1119_EnableInfoLists.xml
+msgctxt "#31006"
+msgid "Collection"
+msgstr ""
+
+#: /xml/Custom_1119_EnableInfoLists.xml
+msgctxt "#31007"
+msgid "Use online information"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31008"
+msgid "Install weather fanart"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31009"
+msgid "Replace submenu with hub"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31010"
+msgid "Widget"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31011"
+msgid "Aspect"
+msgstr ""
+
+#: /xml/MyWeather.xml
+msgctxt "#31012"
+msgid "Weather fanart installed"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31013"
+msgid "Selection box"
+msgstr ""
+
+#: /xml/MyVideoNav.xml
+msgctxt "#31014"
+msgid "Extra fanart"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31015"
+msgid "Choose info-dialog lists"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31016"
+msgid "Mirror mediainfo viewtypes"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31017"
+msgid "Smart Shortcuts"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31018"
+msgid "Common Shortcut"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31019"
+msgid "Left-align showcase viewtypes"
+msgstr ""
+
+#: /xml/script-globalsearch-main.xml
+msgctxt "#31020"
+msgid "mins"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31021"
+msgid "Colors"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31022"
+msgid "Animated artwork"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31023"
+msgid "Fullscreen"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31024"
+msgid "Furniture"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31025"
+msgid "Codec flags"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31026"
+msgid "Library location"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31027"
+msgid "Customise power menu"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31028"
+msgid "Reset skin settings to defaults (WARNING: This will reset your home menu to skin defaults)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31029"
+msgid "Now playing info"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31030"
+msgid "Reset Skin"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31031"
+msgid "Backup skin settings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31032"
+msgid "Restore skin settings"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31033"
+msgid "Audio Settings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31034"
+msgid "Change backup and restore path"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31035"
+msgid "Open Submenu"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31036"
+msgid "hr"
+msgstr ""
+
+#: /xml/DialogSubtitles.xml
+msgctxt "#31037"
+msgid "Download Subtitles"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31038"
+msgid "Submenu hub widget"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31039"
+msgid "Background widget"
+msgstr ""
+
+#: /xml/Custom_1117_EnableViews.xml
+msgctxt "#31040"
+msgid "Poster Showcase"
+msgstr ""
+
+#: /xml/Custom_1138_Search.xml
+msgctxt "#31041"
+msgid "Release Year"
+msgstr ""
+
+#: /xml/Custom_1138_Search.xml
+msgctxt "#31042"
+msgid "By Actors Named"
+msgstr ""
+
+#: /xml/Custom_1138_Search.xml
+msgctxt "#31043"
+msgid "By Directors Named"
+msgstr ""
+
+#: /xml/Custom_1138_Search.xml
+msgctxt "#31044"
+msgid "Albums by"
+msgstr ""
+
+#: /xml/Custom_1138_Search.xml
+msgctxt "#31045"
+msgid "Results for"
+msgstr ""
+
+#: /xml/Custom_1131_Decade_Hub.xml
+msgctxt "#31046"
+msgid "Decades"
+msgstr ""
+
+#: /xml/Custom_1131_Decade_Hub.xml
+msgctxt "#31047"
+msgid "Movie(s)"
+msgstr ""
+
+#: /xml/Custom_1131_Decade_Hub.xml
+msgctxt "#31048"
+msgid "from the"
+msgstr ""
+
+#: /xml/Custom_1133_Sets_Hub.xml
+msgctxt "#31049"
+msgid "Collections"
+msgstr ""
+
+#: /xml/Custom_1136_VideoInfo.xml
+msgctxt "#31050"
+msgid "Searching"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31051"
+msgid "Similar to"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31052"
+msgid "By Director"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31053"
+msgid "Films from"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31054"
+msgid "Next Up"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31055"
+msgid "Cast Members Also Feature In"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31056"
+msgid "Special Features and Extras"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31057"
+msgid "Films in the"
+msgstr ""
+
+#: /xml/DialogVideoInfo.xml
+msgctxt "#31058"
+msgid "Cast of"
+msgstr ""
+
+#: /xml/DialogContextMenu.xml
+msgctxt "#31059"
+msgid "Context Menu"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31060"
+msgid "Blur settings"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31061"
+msgid "Effect"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31062"
+msgid "Blur Size"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31063"
+msgid "Pixel Size"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31064"
+msgid "Bits"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31065"
+msgid "Preview Image"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31066"
+msgid "Important"
+msgstr ""
+
+#: /xml/Custom_1116_ColorBoxAdvancedSettings.xml
+msgctxt "#31067"
+msgid "Quality changes resolution of the generated image$COMMA which may also alter the intensity of the effect. Better quality images take longer to process.[CR]Blend layers the effect over the original image$COMMA with 100% showing the effect and 0% showing the original."
+msgstr ""
+
+#: /xml/Includes_Weather.xml
+msgctxt "#31068"
+msgid "Cloud cover"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31069"
+msgid "Management"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31070"
+msgid "This category contains settings to customise home screen shortcuts$COMMA widgets and layout."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31071"
+msgid "This category contains settings to customise what images are displayed in the background."
+msgstr ""
+
+#: /xml/DialogButtonMenu.xml
+msgctxt "#31072"
+msgid "Power Menu"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31073"
+msgid "This category contains settings to customise the highlight and selection-box colors used in the skin."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31074"
+msgid "This category contains settings to customise what is displayed in information dialogs and library views."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31075"
+msgid "This category contains settings to customise what is displayed when playing music or video fullscreen."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31076"
+msgid "This category contains settings to customise what is displayed in the PVR."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31077"
+msgid "This category contains settings that do not fit other categories."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31078"
+msgid "This category allows you to view$COMMA install and customise add-ons supported by Arctic Zephyr 2."
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31079"
+msgid "Pause when opening info dialog"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31080"
+msgid "This category contains options for backing-up$COMMA restoring and reseting Arctic Zephyr 2 skin settings."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31081"
+msgid "This section contains skin settings for Arctic Zephyr 2 Core."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31082"
+msgid "This section contains information about your system."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31083"
+msgid "This section contains system settings."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31084"
+msgid "This section contains Live TV and PVR settings."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31085"
+msgid "This section contains login-screen and profile settings."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31086"
+msgid "This section contains service settings."
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31087"
+msgid "Display colour overlay"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31088"
+msgid "Display scrolling text effect"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31089"
+msgid "This section contains interface and regional settings."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31090"
+msgid "This section contains media and library settings."
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31091"
+msgid "This section contains playback settings."
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31092"
+msgid "Plot boxes use Faune font"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31093"
+msgid "Slim PVR Guide"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31094"
+msgid "Apply colordiffuse to icons"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31095"
+msgid "Add-on list viewtypes use default labels"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31096"
+msgid "Songs use track-naming template"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31097"
+msgid "Ends at"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31098"
+msgid "Choose widget"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31099"
+msgid "Widgets"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31100"
+msgid "Content type"
+msgstr ""
+
+msgctxt "#31101"
+msgid "items"
+msgstr ""
+
+msgctxt "#31102"
+msgid "min"
+msgstr ""
+
+msgctxt "#31103"
+msgid "Live TV"
+msgstr ""
+
+msgctxt "#31104"
+msgid "Used Memory"
+msgstr ""
+
+msgctxt "#31105"
+msgid "Spotlight"
+msgstr ""
+
+msgctxt "#31106"
+msgid "Ends "
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31107"
+msgid "Item limit"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31108"
+msgid "Minimal busy loader"
+msgstr ""
+
+msgctxt "#31109"
+msgid "Customise home menu"
+msgstr ""
+
+msgctxt "#31110"
+msgid "Background"
+msgstr ""
+
+msgctxt "#31111"
+msgid "Display now playing video in background"
+msgstr ""
+
+msgctxt "#31112"
+msgid "Submenu"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31113"
+msgid "Global Spotlight widget"
+msgstr ""
+
+msgctxt "#31114"
+msgid "Now Playing"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31115"
+msgid "Display icons"
+msgstr ""
+
+#: /xml/Custom_1118_EnableRatings.xml
+msgctxt "#31116"
+msgid "Choose displayed ratings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31117"
+msgid "10 seconds"
+msgstr ""
+
+msgctxt "#31118"
+msgid "Display artist slideshow"
+msgstr ""
+
+msgctxt "#31119"
+msgid "Display visualisation behind slideshow"
+msgstr ""
+
+msgctxt "#31120"
+msgid "Animate artist slideshow"
+msgstr ""
+
+msgctxt "#31121"
+msgid "Fanart"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31122"
+msgid "12 seconds"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31123"
+msgid "15 seconds"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31124"
+msgid "20 seconds"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31125"
+msgid "30 seconds"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31126"
+msgid "60 seconds"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31127"
+msgid "10 minutes"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31128"
+msgid "Set autoscroll and time per image"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31129"
+msgid "Use square artist image on music osd"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31130"
+msgid "Display artist image on music osd"
+msgstr ""
+
+#: /xml/MusicOSD.xml
+msgctxt "#31131"
+msgid "Colour overlay"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31132"
+msgid "Use short music osd"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31133"
+msgid "Prefer poster image for blur"
+msgstr ""
+
+#: /xml/Includes_View_50_List.xml
+msgctxt "#31134"
+msgid "Tri-Panel"
+msgstr ""
+
+#: /xml/Custom_1119_EnableInfoLists.xml
+msgctxt "#31135"
+msgid "Similar"
+msgstr ""
+
+#: /xml/Custom_1119_EnableInfoLists.xml
+msgctxt "#31136"
+msgid "Next-up episodes"
+msgstr ""
+
+#: /xml/Custom_1119_EnableInfoLists.xml
+msgctxt "#31137"
+msgid "Featuring cast-members"
+msgstr ""
+
+#: /xml/Custom_1119_EnableInfoLists.xml
+msgctxt "#31138"
+msgid "Extras and special features"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31139"
+msgid "Widgets and Layout"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31140"
+msgid "Background images"
+msgstr ""
+
+msgctxt "#31141"
+msgid "YouTube"
+msgstr ""
+
+#: /xml/MusicOSD.xml
+msgctxt "#31142"
+msgid "Scrolling text"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31143"
+msgid "Miscellaneous"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31144"
+msgid "Artwork"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31145"
+msgid "Display additional on-screen information with controls or when paused"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31146"
+msgid "General options"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31147"
+msgid "Headers"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31148"
+msgid "Section name"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31149"
+msgid "Clock and weather"
+msgstr ""
+
+msgctxt "#31150"
+msgid "Fallback image"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31151"
+msgid "Studio and language tags"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31152"
+msgid "Viewtypes"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31153"
+msgid "Information overlays"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31154"
+msgid "Only blur info dialog"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31155"
+msgid "Footers"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31156"
+msgid "PVR Guide"
+msgstr ""
+
+#: /xml/Custom_1120_EnableSearchLists.xml
+msgctxt "#31157"
+msgid "Artist's Albums"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31158"
+msgid "Automatically open visualisation after starting a song"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31159"
+msgid "Video Sources"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31160"
+msgid "Music sources"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31161"
+msgid "Supported Add-ons"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31162"
+msgid "Reset Skin"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31163"
+msgid "Submenu Items"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31164"
+msgid "Start-up"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31165"
+msgid "Custom lists"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31166"
+msgid "Choose search lists"
+msgstr ""
+
+#: /xml/Custom_1120_EnableSearchLists.xml
+msgctxt "#31167"
+msgid "Music video artists"
+msgstr ""
+
+msgctxt "#31168"
+msgid "Startup video or playlist"
+msgstr ""
+
+#: /xml/Custom_1120_EnableSearchLists.xml
+msgctxt "#31169"
+msgid "Edit custom search lists"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31170"
+msgid "Clearlogo"
+msgstr ""
+
+#: /xml/Includes_View_52_Showcase.xml
+msgctxt "#31171"
+msgid "Season Info 2"
+msgstr ""
+
+msgctxt "#31172"
+msgid "Display music visualisation in background"
+msgstr ""
+
+msgctxt "#31173"
+msgid "Recently added"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31174"
+msgid "Landscape art"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31175"
+msgid "Replace genre with program times"
+msgstr ""
+
+msgctxt "#31176"
+msgid "Delete Settings Shortcut"
+msgstr ""
+
+msgctxt "#31177"
+msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
+msgstr ""
+
+#: /xml/DialogPVRChannelsOSD.xml
+msgctxt "#31178"
+msgid "Up Next"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31179"
+msgid "Lock view"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31180"
+msgid "Unlock view"
+msgstr ""
+
+msgctxt "#31181"
+msgid "Select icon"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31182"
+msgid "Additional Widgets"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31183"
+msgid "Default Widgets"
+msgstr ""
+
+#: /xml/DialogPVRChannelsOSD.xml
+msgctxt "#31184"
+msgid "On Now"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31185"
+msgid "Recently Added Movies"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31186"
+msgid "Theme Switching"
+msgstr ""
+
+msgctxt "#31187"
+msgid "Random Albums"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31188"
+msgid "Automatically switch color theme based on time (Light 6am - Dark 6pm)"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31189"
+msgid "Geometric pattern on panels"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31190"
+msgid "Recently Played Movies"
+msgstr ""
+
+#: /xml/MyPVRChannels.xml
+msgctxt "#31191"
+msgid "Info List"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31192"
+msgid "Numeric star rating"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31193"
+msgid "Select Art (Kodi)"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31194"
+msgid "Recently Played TV Shows"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31195"
+msgid "Select Art (Artwork Beef)"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31196"
+msgid "In Progress TV Shows"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31197"
+msgid "Download all art"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31198"
+msgid "Recently Played Episodes"
+msgstr ""
+
+msgctxt "#31199"
+msgid "Kiosk mode"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31200"
+msgid "Random Movies"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31201"
+msgid "Simple on-screen info (hide poster and plot)"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31202"
+msgid "Random Episodes"
+msgstr ""
+
+msgctxt "#31203"
+msgid "Artwork"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31204"
+msgid "Refresh Info"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31205"
+msgid "Animate background using Ken Burns effect"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31206"
+msgid "Channel numbers"
+msgstr ""
+
+#: /xml/Includes_OSD.xml
+msgctxt "#31207"
+msgid "Ends"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31214"
+msgid "Recently Added Episodes"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31216"
+msgid "In Progress Movies"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31217"
+msgid "Change location"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31218"
+msgid "In Progress Episodes"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31222"
+msgid "Top Rated TV Shows"
+msgstr ""
+
+msgctxt "#31225"
+msgid "Top Rated Movies"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31230"
+msgid "Top Rated Episodes"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31231"
+msgid "Lovefilm"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31233"
+msgid "Random TV Shows"
+msgstr ""
+
+msgctxt "#31236"
+msgid "Now playing..."
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31238"
+msgid "Recently Added Albums"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31242"
+msgid "Recently Played Albums"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31243"
+msgid "Top 100 Albums"
+msgstr ""
+
+#: /xml/script-skinshortcuts.xml
+msgctxt "#31248"
+msgid "Edit Shortcuts"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31257"
+msgid "Movie Genres"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31260"
+msgid "Movie Sets"
+msgstr ""
+
+msgctxt "#31262"
+msgid "Poster"
+msgstr ""
+
+msgctxt "#31267"
+msgid "Action"
+msgstr ""
+
+msgctxt "#31268"
+msgid "Label"
+msgstr ""
+
+msgctxt "#31269"
+msgid "Fallback widget"
+msgstr ""
+
+msgctxt "#31270"
+msgid "Video / Music"
+msgstr ""
+
+msgctxt "#31271"
+msgid "Single Image"
+msgstr ""
+
+msgctxt "#31272"
+msgid "Multi Image"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31274"
+msgid "TvShow Genres"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31275"
+msgid "Background Artwork"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31276"
+msgid "IMDB Top 250 Movies"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31278"
+msgid "Unwatched Movies"
+msgstr ""
+
+msgctxt "#31279"
+msgid "Video decoder"
+msgstr ""
+
+msgctxt "#31280"
+msgid "Pixel format"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31283"
+msgid "Unwatched Episodes"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31285"
+msgid "Extended info"
+msgstr ""
+
+msgctxt "#31286"
+msgid "Highlight colour"
+msgstr ""
+
+#: /xml/DialogBusy.xml
+msgctxt "#31292"
+msgid "Kodi is busy$COMMA one moment please"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31295"
+msgid "Random Artists"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31296"
+msgid "Movie Nodes"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31297"
+msgid "TvShow Nodes"
+msgstr ""
+
+#: /xml/Includes_View_List.xml
+msgctxt "#31298"
+msgid "Media Info"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31300"
+msgid "Music Nodes"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31301"
+msgid "TV Shows"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31302"
+msgid "Music Sources"
+msgstr ""
+
+#: /xml/DialogAddonInfo.xml
+msgctxt "#31303"
+msgid "Latest Changes"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31304"
+msgid "Picture Sources"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31306"
+msgid "Special Features"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31308"
+msgid "Player"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31310"
+msgid "User rating"
+msgstr ""
+
+#: /xml/Includes_OSD.xml
+msgctxt "#31311"
+msgid "Rate Song"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31314"
+msgid "Automatically display music video info at beginning and end of clip"
+msgstr ""
+
+#: /xml/Includes_Home.xml
+msgctxt "#31315"
+msgid "CinemaVision"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31317"
+msgid "Watched indicators"
+msgstr ""
+
+#: /xml/Settings.xml
+msgctxt "#31343"
+msgid "PVR"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31346"
+msgid "Video OSD"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31347"
+msgid "Music OSD"
+msgstr ""
+
+#: /xml/Startup.xml
+msgctxt "#31349"
+msgid "Initialising Skin"
+msgstr ""
+
+#: /xml/Custom_1136_VideoInfo.xml
+msgctxt "#31356"
+msgid "Years Old"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31358"
+msgid "Poster Wall"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31359"
+msgid "Landscape Wall"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31360"
+msgid "Square Wall"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31361"
+msgid "Landscape Showcase"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31362"
+msgid "Square Showcase"
+msgstr ""
+
+#: /xml/Includes_View_Posters.xml
+msgctxt "#31363"
+msgid "Big Posters"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31367"
+msgid "Recently Added TV Shows"
+msgstr ""
+
+#: /xml/EventLog.xml
+msgctxt "#31374"
+msgid "Order"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31377"
+msgid "Display video lyrics"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31379"
+msgid "Display plot overlay after delay"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31380"
+msgid "Untitled"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31381"
+msgid "Last Played Channels"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31382"
+msgid "Active Recordings"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31383"
+msgid "Grouped Active Recordings"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31384"
+msgid "Grouped Deleted Recordings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31386"
+msgid "Auto close OSD controls after delay (in seconds)"
+msgstr ""
+
+#: /xml/Includes_Topbar.xml
+msgctxt "#31391"
+msgid "Page"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31395"
+msgid "Music Playlist"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31396"
+msgid "Video Playlist"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31399"
+msgid "Text"
+msgstr ""
+
+#: /xml/Includes_Items.xml
+msgctxt "#31408"
+msgid "Subtitle settings"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31409"
+msgid "Subtitles button opens subtitle settings"
+msgstr ""
+
+#: /xml/DialogPVRChannelManager.xml
+msgctxt "#31412"
+msgid "Apply"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31414"
+msgid "Explore"
+msgstr ""
+
+#: /xml/Includes_View_51_Wall.xml
+msgctxt "#31415"
+msgid "Icon"
+msgstr ""
+
+#: /xml/Includes_View_50_List.xml
+msgctxt "#31421"
+msgid "Banner List"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31422"
+msgid "Live TV / PVR"
+msgstr ""
+
+#: /xml/Includes_View_50_List.xml
+msgctxt "#31423"
+msgid "List Extended"
+msgstr ""
+
+#: /xml/Includes_View_51_Wall.xml
+msgctxt "#31424"
+msgid "Icon Wall"
+msgstr ""
+
+#: /xml/Includes_View_51_Wall.xml
+msgctxt "#31425"
+msgid "Circle Wall"
+msgstr ""
+
+#: /xml/Includes_View_51_Wall.xml
+msgctxt "#31426"
+msgid "Info Wall"
+msgstr ""
+
+#: /xml/Includes_View_52_Showcase.xml
+msgctxt "#31427"
+msgid "Season Info"
+msgstr ""
+
+#: /xml/Includes_View.xml
+msgctxt "#31428"
+msgid "Loading"
+msgstr ""
+
+#: /shortcuts/overrides.xml
+msgctxt "#31429"
+msgid "Submenu Hub"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31430"
+msgid "Queued"
+msgstr ""
+
+#: /xml/Includes_View_51_Wall.xml
+msgctxt "#31431"
+msgid "Landscape Wall Small"
+msgstr ""
+
+#: /xml/Custom_1138_Search.xml
+msgctxt "#31432"
+msgid "Music Videos by Artist Named"
+msgstr ""
+
+#: /xml/script-skin_helper_service-ColorPicker.xml
+msgctxt "#31433"
+msgid "Choose Palette"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31434"
+msgid "Clearart with seekbar"
+msgstr "Clearart with seekbar"
+
+#: /xml/Includes_View_54_ROM_Simple.xml
+msgctxt "#31435"
+msgid "ROM Trailer"
+msgstr ""
+
+#: /xml/Includes_View_51_Wall.xml
+msgctxt "#31436"
+msgid "Info Wall 2"
+msgstr ""
+
+#: /shortcuts/mainmenu.DATA.xml
+msgctxt "#31437"
+msgid "Play Disc"
+msgstr ""
+
+#: /shortcuts/mainmenu.DATA.xml
+msgctxt "#31438"
+msgid "TV Shows"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31439"
+msgid "Home layout"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31440"
+msgid "Vertical Menu"
+msgstr ""
+
+#: /xml/Includes_Labels.xml
+msgctxt "#31441"
+msgid "Horizontal Menu"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31442"
+msgid "Menu Corner Icon"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31443"
+msgid "Fanart"
+msgstr ""
+
+#: /xml/SkinSettings.xml
+msgctxt "#31444"
+msgid "Blur (default)"
+msgstr ""
+
+#:
+msgctxt "#31445"
+msgid "Oscars"
+msgstr ""
+
+#:
+msgctxt "#31446"
+msgid "Metacritic"
+msgstr ""
+
+#:
+msgctxt "#31447"
+msgid "RottenTomatoes"
+msgstr ""
+
+#:
+msgctxt "#31448"
+msgid "TheMovieDb"
+msgstr ""
+
+#:
+msgctxt "#31449"
+msgid "TVDb"
+msgstr ""
+
+#:
+msgctxt "#31450"
+msgid "IMDb"
+msgstr ""
+
+#:
+msgctxt "#31451"
+msgid "YouTube"
+msgstr ""
+
+#:
+msgctxt "#31452"
+msgid "2020s"
+msgstr ""
+
+#:
+msgctxt "#31453"
+msgid "2010s"
+msgstr ""
+
+#:
+msgctxt "#31454"
+msgid "2000s"
+msgstr ""
+
+#:
+msgctxt "#31455"
+msgid "1990s"
+msgstr ""
+
+#:
+msgctxt "#31456"
+msgid "1980s"
+msgstr ""
+
+#:
+msgctxt "#31457"
+msgid "1970s"
+msgstr ""
+
+#:
+msgctxt "#31458"
+msgid "1960s"
+msgstr ""
+
+#:
+msgctxt "#31459"
+msgid "1950s"
+msgstr ""
+
+#:
+msgctxt "#31460"
+msgid "1940s"
+msgstr ""
+
+#:
+msgctxt "#31461"
+msgid "1930s"
+msgstr ""
+
+#:
+msgctxt "#31462"
+msgid "1920s"
+msgstr ""
+
+#:
+msgctxt "#31463"
+msgid "1910s"
+msgstr ""
+
+#:
+msgctxt "#31464"
+msgid "1900s"
+msgstr ""
+
+#:
+msgctxt "#31465"
+msgid "Choose displayed information tags"
+msgstr ""
+
+#:
+msgctxt "#31466"
+msgid "Disable all tags"
+msgstr ""
+
+#:
+msgctxt "#31467"
+msgid "Studios"
+msgstr ""
+
+#:
+msgctxt "#31468"
+msgid "Countries"
+msgstr ""
+
+#:
+msgctxt "#31469"
+msgid "Languages"
+msgstr ""
+
+#:
+msgctxt "#31470"
+msgid "Codecs"
+msgstr ""
+#:
+msgctxt "#31471"
+msgid "Management"
+msgstr ""
+
+#:
+msgctxt "#31472"
+msgid "Customize Widgets"
+msgstr ""
+
+#:
+msgctxt "#31473"
+msgid "Default search items"
+msgstr ""
+
+#:
+msgctxt "#31474"
+msgid "Widget movement"
+msgstr ""
+
+#:
+msgctxt "#31475"
+msgid "Other"
+msgstr ""
