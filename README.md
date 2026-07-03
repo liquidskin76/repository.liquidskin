@@ -5,6 +5,7 @@ https://liquidskin76.github.io/repository.liquidskin/
 
 
 ARCTIC: ZEPHYR 2 CORE
+
 SCREENSHOTS
 
 <img width="1920" height="1080" alt="screenshot-01" src="https://github.com/user-attachments/assets/bdb15214-d74e-4cc7-a67e-ccdb79b935f1" />
